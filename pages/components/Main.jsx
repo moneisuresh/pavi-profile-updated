@@ -32,7 +32,7 @@ const Main = () => {
           <h2 className="py-4 text-gray-300 rounded-[5px] bg-opacity-20 mt-2">
             Ph.D. (Molecular Science/Astrochemistry)
           </h2>
-          <h6 className="m1-9 text-black rounded-[5px] bg-opacity-40 sm:max-w-[100%] mb-10 ">
+          <h6 className="m1-9 text-gray-300 rounded-[5px] bg-opacity-40 sm:max-w-[100%] mb-10 ">
             Astrochemistry/Interstellar Chemistry, Spectroscopy, PAH Chemistry
             in space.
           </h6>
