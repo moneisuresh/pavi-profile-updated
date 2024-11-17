@@ -7,44 +7,44 @@ const EducationBackground = () => {
         <h2 className="mt-10 text-left mb-5">Education Qualification:</h2>
       </card>
       <div className="mx-[100px]">
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 ">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 ">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2024
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             <bold>Postdoctoral</bold> Researcher - Marie Curie Fellowship
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
             ASTROCHEMISTRY, Leiden University, Niels Bohrweg 2, Leiden, The
             Netherlands. Starting date: 01/09/2022
           </p>
         </div>
 
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 mt-3 ">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 mt-3 ">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2022
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             Visiting Scientist
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
             Astrochemistry Laboratory, Atomic Molecular and Optical Physics
-            division, Physical Research Laboratory, Ahmedabad, India. Jan. 2022
+            division, Physical Research Laboratory, Ahmadabad, India. Jan. 2022
             – Aug. 2022.
           </p>
         </div>
 
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 mt-3 ">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 mt-3 ">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2020
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             Ph.D
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
             Institute of Molecular Science, Department of Applied Chemistry,
             National Chiao Tung University, Hsinchu, Taiwan. {""}
-            <span className=" text-orange-500">
+            <span className=" text-blue-300">
               Thesis title – “Infrared spectra of Protonated and Hydrogenated
               Corannulene (C<sub>20</sub>H<sub>10</sub>), Sumanene (C
               <sub>21</sub>H<sub>12</sub>) and Hexa(peri)benzocoronene (C
@@ -54,55 +54,53 @@ const EducationBackground = () => {
           </p>
         </div>
 
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 mt-3 ">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 mt-3 ">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2015
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             Research staff
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
             Atomic Molecular and Optical Physics division, Physical Research
-            Laboratory, Ahmedabad, India.
+            Laboratory, Ahmadabad, India.
           </p>
         </div>
 
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 mt-3 ">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 mt-3 ">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2015
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             Project Associate
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
             PLANEX (Planetary Science and Exploration) division, Physical
-            Research Laboratory, Ahmedabad, India.
+            Research Laboratory, Ahmadabad, India.
           </p>
         </div>
 
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 mt-3 ">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 mt-3 ">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2014
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             M.Sc. Physics
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
-            Madras Christian College (University of Madras) – CGPA 7.724
-            (Distinction)
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
+            Madras Christian College (University of Madras).
           </p>
         </div>
 
-        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-[#b9c4d4] p-[20px] m-[4px] bg-opacity-25 mt-3">
+        <div className=" bg-black rounded-[5px] px-5 shadow-xl text-white p-[20px] m-[4px] bg-opacity-25 mt-3">
           <p className=" bg-black rounded-[5px] bg-opacity-25 text-center">
             2012
           </p>
-          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-pink-200">
+          <h4 className=" bg-purple-100 rounded-[5px] bg-opacity-25 mt-3 px-5 text-white">
             B.Sc. Physics
           </h4>
-          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5">
-            Anna Adarsh College for Women (University of Madras) – CGPA 8.589
-            (Distinction with University 8th rank)
+          <p className=" bg-black rounded-[5px] bg-opacity-35 mt-3 px-5 text-white">
+            Anna Adarsh College for Women (University of Madras).
           </p>
         </div>
       </div>
